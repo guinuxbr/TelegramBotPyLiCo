@@ -1,4 +1,4 @@
-# TelegramBotPyLiCo
+# PyLiCo Telegram bot
 
 This Telegram bot show some information about the Linux host that it is running.
 
